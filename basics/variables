@@ -1,4 +1,8 @@
 a = "mohit"
+# The strings are always in qoutes
 b = 67
+#This is an integer variable
 c = True
+#This is a boolean variable
 d = 67.8
+#This is float variable
