@@ -33,7 +33,66 @@ It will serve as a **memoir of my learning journey** through:
 9. Error Handling
 10. Data Structures & Algorithms
 
----
+--## 📊 Python Learning Progress
+
+### 🟢 Python Fundamentals
+- [x] Python Introduction
+- [x] Variables
+- [x] Data Types
+- [x] Operators
+- [x] Type Casting
+- [ ] Input & Output
+
+### 🔵 Conditional Statements
+- [ ] if
+- [ ] elif
+- [ ] else
+- [ ] Nested Conditions
+
+### 🟡 Loops
+- [ ] for loop
+- [ ] while loop
+- [ ] Nested loops
+- [ ] break
+- [ ] continue
+- [ ] pass
+
+### 🟠 Functions
+- [ ] Functions
+- [ ] Parameters & Arguments
+- [ ] Return statement
+- [ ] Recursion
+- [ ] Lambda Functions
+
+### 🔴 Data Structures
+- [ ] Lists
+- [ ] Tuples
+- [ ] Sets
+- [ ] Dictionaries
+
+### 🟣 Advanced Python
+- [ ] OOP
+- [ ] File Handling
+- [ ] Exception Handling
+- [ ] Modules & Packages
+- [ ] Iterators
+- [ ] Generators
+
+### ⚫ Problem Solving
+- [ ] Fibonacci
+- [ ] Palindrome
+- [ ] Prime Number
+- [ ] Factorial
+- [ ] Number Patterns
+- [ ] Basic DSA
+
+### 🚀 Projects
+- [ ] Calculator
+- [ ] Number Guessing Game
+- [ ] Expense Tracker
+- [ ] To-Do App
+- [ ] Data Analysis Project
+
 
 ## 🎯 My Goal
 
