@@ -41,12 +41,12 @@ It will serve as a **memoir of my learning journey** through:
 - [x] Data Types
 - [x] Operators
 - [x] Type Casting
-- [ ] Input & Output
+- [x] Input & Output
 
 ### 🔵 Conditional Statements
-- [ ] if
-- [ ] elif
-- [ ] else
+- [x] if
+- [x] elif
+- [x] else
 - [ ] Nested Conditions
 
 ### 🟡 Loops
