@@ -47,18 +47,18 @@ It will serve as a **memoir of my learning journey** through:
 - [x] if
 - [x] elif
 - [x] else
-- [ ] Nested Conditions
+- [x] Nested Conditions
 
 ### 🟡 Loops
-- [ ] for loop
-- [ ] while loop
-- [ ] Nested loops
-- [ ] break
-- [ ] continue
+- [x] for loop
+- [x] while loop
+- [x] Nested loops
+- [x] break
+- [x] continue
 - [ ] pass
 
 ### 🟠 Functions
-- [ ] Functions
+- [x] Functions
 - [ ] Parameters & Arguments
 - [ ] Return statement
 - [ ] Recursion
