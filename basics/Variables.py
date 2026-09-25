@@ -10,3 +10,5 @@ d = 67.8
 #if i want to know the type then i have to write this
 print(type(name))
 #so it will show me the type of variable the variable name is holding
+sorted(a)
+#sorted m string ke saare character alg alg ho jate h
