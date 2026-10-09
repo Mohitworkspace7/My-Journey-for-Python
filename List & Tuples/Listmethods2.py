@@ -9,3 +9,20 @@ print(l)
 #for remove of specific value
 lst.remove(5)
 #iey 5 remove ho jayega
+numbers = [10, 20, 30]
+
+a, b, c = numbers
+
+print(a)
+print(b)
+print(c)
+numbers = [10, 20, 30, 40, 50]
+
+a, *b, c = numbers
+
+print(a)
+print(b)
+print(c)
+#10
+#[20, 30, 40]
+#50
