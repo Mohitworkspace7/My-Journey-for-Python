@@ -1,0 +1,5 @@
+lst = [1, 2, 2, 3, 1, 4, 3]
+
+unique = set(lst)
+
+print(unique)
